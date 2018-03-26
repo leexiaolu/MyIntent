@@ -7,7 +7,7 @@
 
 ## 使用Intent传递数据
 * 传递数组
-* 传递集合
+* 传递集合<br>
    List<'String'><br>
    List<'Object'><br>
    Map
