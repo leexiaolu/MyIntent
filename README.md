@@ -8,8 +8,8 @@
 ## 使用Intent传递数据
 * 传递数组
 * 传递集合
-   List<String>
-   List<Object>
+   List<<String>><br>
+   List<Object><br>
    Map
 * Object
 * Bitmap
